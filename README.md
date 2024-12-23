@@ -38,7 +38,7 @@ This project was developed as a **term project** for the **Operating Systems** c
 ### User Interface
 
 The interface consists of three primary panels:
-![Application Interface](path/to/your/image.png)
+![Application Interface](file_manager_arayuz.jpg)
 
 #### 1. **Navigation Panel**
    - Displays frequently accessed directories such as "This PC."
